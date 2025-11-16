@@ -257,7 +257,7 @@ This project is licensed under the ISC License.
 ## 📞 Support
 
 For support and queries, please contact:
-- Email: [er.shivank07@gmail.com]
+- Email: [work.abhinavpatel@gmail.com]
 - GitHub Issues: [Create an issue](https://github.com/devilshiv-07/Restaurant_POS_System/issues)
 
 ## 🙏 Acknowledgments
